@@ -1,0 +1,24 @@
+{
+    "data": [
+      {
+        "latitude": 13.066682,
+        "longitude": 80.224741,
+        "type": "locality",
+        "name": "Chennai",
+        "number": null,
+        "postal_code": null,
+        "street": null,
+        "confidence": 1,
+        "region": "Tamil Nadu",
+        "region_code": "TN",
+        "county": "Chennai",
+        "locality": "Chennai",
+        "administrative_area": null,
+        "neighbourhood": null,
+        "country": "India",
+        "country_code": "IND",
+        "continent": "Asia",
+        "label": "Chennai, TN, India"
+      }
+    ]
+  }

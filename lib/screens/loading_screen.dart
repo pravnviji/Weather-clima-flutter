@@ -14,6 +14,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
   late String responseBody;
   @override
   void initState() {
+    print(":: Loading Screen Init State ::");
     geoLocation();
     // TODO: implement initState
     super.initState();

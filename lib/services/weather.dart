@@ -6,13 +6,13 @@ class WeatherModel {
   int? statusCode = 200;
 
   @JsonKey(required: true)
-  late String description;
+  String description;
 
   @JsonKey(required: true)
-  late int id;
+  int id;
 
   @JsonKey(required: true)
-  late String name;
+  String name;
 
   @JsonKey(required: true)
   final double temp;
